@@ -1,0 +1,95 @@
+{
+  "downloadedAt": "2026-11-21T15:13:36.376Z",
+  "files": [
+    {
+      "file": "forrest_ground_03_diff_1k.jpg",
+      "asset": "forrest_ground_03",
+      "map": "Diffuse",
+      "resolution": "1k",
+      "source": "https://polyhaven.com/a/forrest_ground_03",
+      "license": "CC0",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forrest_ground_03/forrest_ground_03_diff_1k.jpg",
+      "md5": "0a63f012ae0e3663451b5a0e5049975a"
+    },
+    {
+      "file": "forrest_ground_03_nor_1k.jpg",
+      "asset": "forrest_ground_03",
+      "map": "nor_gl",
+      "resolution": "1k",
+      "source": "https://polyhaven.com/a/forrest_ground_03",
+      "license": "CC0",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forrest_ground_03/forrest_ground_03_nor_gl_1k.jpg",
+      "md5": "9f44096b43a0f796ae6f52d7fe784698"
+    },
+    {
+      "file": "forrest_ground_03_rough_1k.jpg",
+      "asset": "forrest_ground_03",
+      "map": "Rough",
+      "resolution": "1k",
+      "source": "https://polyhaven.com/a/forrest_ground_03",
+      "license": "CC0",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forrest_ground_03/forrest_ground_03_rough_1k.jpg",
+      "md5": "99b60c4ba1dc799e8eddf6e2f1460c09"
+    },
+    {
+      "file": "bark_brown_02_diff_1k.jpg",
+      "asset": "bark_brown_02",
+      "map": "Diffuse",
+      "resolution": "1k",
+      "source": "https://polyhaven.com/a/bark_brown_02",
+      "license": "CC0",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_brown_02/bark_brown_02_diff_1k.jpg",
+      "md5": "6669cca520594bdca19f94084984ab72"
+    },
+    {
+      "file": "bark_brown_02_nor_1k.jpg",
+      "asset": "bark_brown_02",
+      "map": "nor_gl",
+      "resolution": "1k",
+      "source": "https://polyhaven.com/a/bark_brown_02",
+      "license": "CC0",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/bark_brown_02/bark_brown_02_nor_gl_1k.jpg",
+      "md5": "1cad3fe0349a44df2d4d1c2859c79920"
+    },
+    {
+      "file": "dark_planks_diff_1k.jpg",
+      "asset": "dark_planks",
+      "map": "Diffuse",
+      "resolution": "1k",
+      "source": "https://polyhaven.com/a/dark_planks",
+      "license": "CC0",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dark_planks/dark_planks_diff_1k.jpg",
+      "md5": "8fcc9957942c4a187269030c2cdf1342"
+    },
+    {
+      "file": "dark_planks_nor_1k.jpg",
+      "asset": "dark_planks",
+      "map": "nor_gl",
+      "resolution": "1k",
+      "source": "https://polyhaven.com/a/dark_planks",
+      "license": "CC0",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dark_planks/dark_planks_nor_gl_1k.jpg",
+      "md5": "38bbe50031892895c0c30b0b09c8f291"
+    },
+    {
+      "file": "mossy_stone_wall_diff_1k.jpg",
+      "asset": "mossy_stone_wall",
+      "map": "Diffuse",
+      "resolution": "1k",
+      "source": "https://polyhaven.com/a/mossy_stone_wall",
+      "license": "CC0",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_stone_wall/mossy_stone_wall_diff_1k.jpg",
+      "md5": "ae70425d2aec4b8f454dc1762c1ec881"
+    },
+    {
+      "file": "mossy_stone_wall_nor_1k.jpg",
+      "asset": "mossy_stone_wall",
+      "map": "nor_gl",
+      "resolution": "1k",
+      "source": "https://polyhaven.com/a/mossy_stone_wall",
+      "license": "CC0",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_stone_wall/mossy_stone_wall_nor_gl_1k.jpg",
+      "md5": "e7e6c0318498ddb0bc0ece957ee2d86d"
+    }
+  ]
+}

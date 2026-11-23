@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>暮色松林 · 木屋</title>
+    <meta name="description" content="Vite + Three.js 制作的黄昏松林木屋交互场景" />
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <canvas id="scene"></canvas>
+    <div class="vignette" aria-hidden="true"></div>
+
+    <header class="hud">
+      <p class="hud-eyebrow">Three.js · 实时渲染</p>
+      <h1>暮色松林<em>·</em>木屋</h1>
+      <p class="hud-sub">拖拽旋转视角 · 滚轮缩放 · 点击窗灯</p>
+    </header>
+
+    <aside class="panel" aria-label="场景控制">
+      <div class="panel-title">场景控制</div>
+
+      <label class="row" for="time">
+        <span class="row-label">黄昏 <i>→</i> 夜幕</span>
+        <output id="timeOut">14%</output>
+      </label>
+      <input id="time" class="slider" type="range" min="0" max="100" value="14" step="1" />
+
+      <label class="row" for="fog">
+        <span class="row-label">薄雾浓度</span>
+        <output id="fogOut">42%</output>
+      </label>
+      <input id="fog" class="slider" type="range" min="0" max="100" value="42" step="1" />
+
+      <div class="row">
+        <span class="row-label">屋内灯火</span>
+        <button id="lights" class="switch is-on" type="button" aria-pressed="true">已点亮</button>
+      </div>
+
+      <div class="row">
+        <span class="row-label">自动环绕</span>
+        <button id="orbit" class="switch is-on" type="button" aria-pressed="true">开启</button>
+      </div>
+
+      <button id="reset" class="reset" type="button">重置视角</button>
+    </aside>
+
+    <div id="loader" class="loader">
+      <span class="loader-ring" aria-hidden="true"></span>
+      <span class="loader-text">正在走进松林…</span>
+      <span class="loader-bar"><i id="loaderBar"></i></span>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,177 @@
+{
+  "generatedAt": "2026-11-23T04:34:21.771Z",
+  "license": "CC0-1.0",
+  "attribution": "Models and textures by Poly Haven (polyhaven.com), licensed CC0.",
+  "trees": {
+    "fir_mature": {
+      "variants": 3,
+      "lods": {
+        "lod0": [
+          {
+            "url": "trees/fir_mature_a_lod0.gltf",
+            "tris": 63975,
+            "height": 18.5,
+            "sizeKB": 9
+          },
+          {
+            "url": "trees/fir_mature_b_lod0.gltf",
+            "tris": 60453,
+            "height": 13.77,
+            "sizeKB": 9
+          },
+          {
+            "url": "trees/fir_mature_c_lod0.gltf",
+            "tris": 60009,
+            "height": 14.5,
+            "sizeKB": 10
+          }
+        ]
+      },
+      "license": "CC0",
+      "source": "https://polyhaven.com/a/fir"
+    },
+    "fir_medium": {
+      "variants": 12,
+      "lods": {
+        "lod0": [
+          {
+            "url": "trees/fir_medium_a_lod0.gltf",
+            "tris": 28798,
+            "height": 8.65,
+            "sizeKB": 7
+          },
+          {
+            "url": "trees/fir_medium_b_lod0.gltf",
+            "tris": 27184,
+            "height": 7.73,
+            "sizeKB": 7
+          },
+          {
+            "url": "trees/fir_medium_c_lod0.gltf",
+            "tris": 27211,
+            "height": 5.84,
+            "sizeKB": 7
+          }
+        ],
+        "lod1": [
+          {
+            "url": "trees/fir_medium_a_lod1.gltf",
+            "tris": 5071,
+            "height": 8.35,
+            "sizeKB": 7
+          },
+          {
+            "url": "trees/fir_medium_b_lod1.gltf",
+            "tris": 4894,
+            "height": 7.1,
+            "sizeKB": 7
+          },
+          {
+            "url": "trees/fir_medium_c_lod1.gltf",
+            "tris": 4892,
+            "height": 5.28,
+            "sizeKB": 7
+          }
+        ],
+        "lodfar": [
+          {
+            "url": "trees/fir_medium_a_lodfar.gltf",
+            "tris": 2603,
+            "height": 8.35,
+            "sizeKB": 7
+          },
+          {
+            "url": "trees/fir_medium_b_lodfar.gltf",
+            "tris": 2121,
+            "height": 7.09,
+            "sizeKB": 7
+          },
+          {
+            "url": "trees/fir_medium_c_lodfar.gltf",
+            "tris": 2162,
+            "height": 5.5,
+            "sizeKB": 7
+          }
+        ],
+        "lodmid": [
+          {
+            "url": "trees/fir_medium_a_lodmid.gltf",
+            "tris": 11798,
+            "height": 8.35,
+            "sizeKB": 7
+          },
+          {
+            "url": "trees/fir_medium_b_lodmid.gltf",
+            "tris": 11797,
+            "height": 7.47,
+            "sizeKB": 7
+          },
+          {
+            "url": "trees/fir_medium_c_lodmid.gltf",
+            "tris": 11798,
+            "height": 5.54,
+            "sizeKB": 7
+          }
+        ]
+      },
+      "license": "CC0",
+      "source": "https://polyhaven.com/a/fir"
+    },
+    "fir_small": {
+      "variants": 2,
+      "lods": {
+        "lod0": [
+          {
+            "url": "trees/fir_small_a_lod0.gltf",
+            "tris": 6025,
+            "height": 1.21,
+            "sizeKB": 6
+          },
+          {
+            "url": "trees/fir_small_b_lod0.gltf",
+            "tris": 5692,
+            "height": 0.63,
+            "sizeKB": 4
+          }
+        ]
+      },
+      "license": "CC0",
+      "source": "https://polyhaven.com/a/fir"
+    },
+    "pine_small": {
+      "variants": 1,
+      "lods": {
+        "lod0": [
+          {
+            "url": "trees/pine_small_a_lod0.gltf",
+            "tris": 6095,
+            "height": 1.3,
+            "sizeKB": 9
+          }
+        ]
+      },
+      "license": "CC0",
+      "source": "https://polyhaven.com/a/pine"
+    }
+  },
+  "props": {
+    "boulder": "props/boulder.glb",
+    "dead_tree_trunk": "props/dead_tree_trunk.glb",
+    "dead_tree_trunk_02": "props/dead_tree_trunk_02.glb",
+    "dry_branches_medium_01": "props/dry_branches_medium_01.glb",
+    "fern_02": "props/fern_02.glb",
+    "grass_medium_01": "props/grass_medium_01.glb",
+    "lantern": "props/lantern.glb",
+    "moss_01": "props/moss_01.glb",
+    "pine_roots": "props/pine_roots.glb",
+    "planter_pot": "props/planter_pot.glb",
+    "potted_plant_01": "props/potted_plant_01.glb",
+    "potted_plant_02": "props/potted_plant_02.glb",
+    "rock_moss_set_01": "props/rock_moss_set_01.glb",
+    "rock_moss_set_02": "props/rock_moss_set_02.glb",
+    "rocking_chair": "props/rocking_chair.glb",
+    "shrub_01": "props/shrub_01.glb",
+    "shrub_02": "props/shrub_02.glb",
+    "tree_stump_01": "props/tree_stump_01.glb"
+  }
+}
