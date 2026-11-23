@@ -1,5 +1,7 @@
 # 暮色松林 · 木屋（写实素材版）
 
+**在线演示**：https://huckerh546-arch.github.io/dusk-pine-cabin/
+
 用 **Vite + Three.js** 打造的交互式林间小屋场景。第二版把程序化的圆锥树换成了
 **Poly Haven 的 CC0 写实杉木 / 松树 / 苔藓 / 岩石 / 枯木模型**，并补上了 PBR 地表与木屋材质。
 
