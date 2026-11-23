@@ -22,7 +22,7 @@ function texture(url, { srgb = false, repeat = [1, 1] } = {}) {
 }
 
 export async function loadSurfaces() {
-  const base = '/assets/textures/';
+  const base = `${import.meta.env.BASE_URL}assets/textures/`;
 
   const [groundDiff, groundNor, groundRough] = await Promise.all([
     texture(base + 'forrest_ground_03_diff_1k.jpg', { srgb: true, repeat: [48, 48] }),

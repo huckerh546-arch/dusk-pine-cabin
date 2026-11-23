@@ -426,7 +426,7 @@ async function initAssets() {
 
   setLoaderProgress(0.04, '正在加载森林资产 4%');
 
-  const manifest = await fetch('/assets/models/manifest.json').then((res) => {
+  const manifest = await fetch(`${import.meta.env.BASE_URL}assets/models/manifest.json`).then((res) => {
     if (!res.ok) throw new Error(`manifest ${res.status}`);
     return res.json();
   });

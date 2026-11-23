@@ -13,12 +13,12 @@ const FOLIAGE_RE = /twig|leaf|leaves|needle|foliage|frond|grass|fern/i;
 
 export function createModels() {
   const draco = new DRACOLoader();
-  draco.setDecoderPath('/draco/');
+  draco.setDecoderPath(`${import.meta.env.BASE_URL}draco/`);
 
   const manager = new THREE.LoadingManager();
   const loader = new GLTFLoader(manager);
   loader.setDRACOLoader(draco);
-  loader.setPath('/assets/models/');
+  loader.setPath(`${import.meta.env.BASE_URL}assets/models/`);
 
   let onProgress = null;
   manager.onProgress = (_url, loaded, total) => {
